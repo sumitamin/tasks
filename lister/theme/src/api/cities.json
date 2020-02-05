@@ -1,0 +1,28 @@
+[
+    {
+        "value":"texas",
+        "label":"Texas"
+    },
+    {
+        "value":"chicago",
+        "label":"Chicago"
+    },
+    {
+        "value":"california",
+        "label":"California"
+    },
+    {
+        "value":"houston",
+        "label":"Houston"
+    },
+    {
+        "value":"florida",  
+        "label":"Florida"
+    },
+    {
+        "value":"phoenix",
+        "label":"Phoenix"
+    }
+
+    
+]

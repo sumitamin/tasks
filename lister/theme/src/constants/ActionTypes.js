@@ -1,0 +1,2 @@
+
+export const RECEIVE_CITIES = 'RECEIVE_CITIES'
